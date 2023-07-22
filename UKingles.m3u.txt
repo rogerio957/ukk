@@ -1,0 +1,646 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC FIRST FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2083
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| LIFETIME FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| 4SEVEN FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC FOUR FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2087
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS FOOTBALL FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2090
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS MAIN EVENT FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2091
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS ACTION FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2095
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS ARENA FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2096
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS CRICKET FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS MIX FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS PREMIER LEAGUE FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS RACING FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT 3 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT 2 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| PARAMOUNT FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS NEWS FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| TLC FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY ONE FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2894
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/ee042dc7444d776bab849e819be8d05e.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA SELECT FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2895
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/75c7b774f7decdb1e7555159dcad691a.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA FAMILY FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2897
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT ESPN FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2898
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC WORLD NEWS FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2933
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CARTOON NETWORK FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2950
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="UNITED OF KINGDOM", ||UK|| DISNEY CHANNEL FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2951
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| DISNEY JUNIOR FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2952
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| NICK JUNIOR FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2955
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/80cd5383aa18184efaada6d48bb319f3.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA PREMIERE FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2961
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/75c7b774f7decdb1e7555159dcad691a.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA FAMILY FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2963
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/faa1a62fb037d5cedd724a83bf8153cc.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA DRAMA & ROMANCE FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2965
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/820b6c5a90ca645f67cd6e80331fc1fb.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA COMEDY FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2967
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/303d2f5ac16599e37283f214a4ab86d2.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA ACTION & ADVENTURE FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2969
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/35309226eb45ec366ca86a4329a2b7c3.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA DISNEY FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA HITS FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2979
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| UNIVERSAL CHANNEL FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2984
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title="UNITED OF KINGDOM", ||UK|| COMEDY CENTRAL FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2986
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/f89e9bfb1f605e58e24b065722f8c23e.png" group-title="UNITED OF KINGDOM", ||UK|| COMEDY CENTRAL EXTRA FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2987
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC CBEEBIES FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2989
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/753/98/png-clipart-itv2-itv4-itv-hub-itv-hd-itv2hd-television-blue-thumbnail.png" group-title="UNITED OF KINGDOM", ||UK|| ITV 2 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2992
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/vx/282458/svg/282458.svg" group-title="UNITED OF KINGDOM", ||UK|| ITV 4 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2994
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY ATLANTIC FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2996
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| E! ENTERTAINMENT FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC ONE FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC TWO FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC THREE FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| RTE 1 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| RTE 2 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3006
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| PICK TV FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC ENTERTAINMENT FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY LIVING FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3017
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FOX NEWS FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CHALLENGE TV FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3021
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/f2ee55967ec94f85be57c98e6db9fd83.png" group-title="UNITED OF KINGDOM", ||UK|| DISCOVERY CHANNEL FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3025
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| NATIONAL GEOGRAPHIC FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3028
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="UNITED OF KINGDOM", ||UK|| NAT GEO WILD FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| HISTORY CHANNEL FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3030
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FOOD NETWORK FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3031
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e0b207526f7e96f60a5d9358d2b1b382.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA THRILLER FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/51814
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e046bfec5361913269b608e1f16f9585.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA GREATS FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/51815
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/29498b2fbbb8442e55466c94531649b7.png" group-title="UNITED OF KINGDOM", ||UK|| ITV 3 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/52117
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e82ce56703005169b75c6d436ce9e6c7.png" group-title="UNITED OF KINGDOM", ||UK|| CHANNEL 5 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/52288
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/59f4a12ffaf9be92c3d287ed437b6551.png" group-title="UNITED OF KINGDOM", ||UK|| CHANNEL 4 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/52289
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/828d0aa6fef07d5ec8f382ba2210a8b8.png" group-title="UNITED OF KINGDOM", ||UK|| ITV 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1327
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="UNITED OF KINGDOM", ||UK|| ITV 3 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1328
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/vx/282458/svg/282458.svg" group-title="UNITED OF KINGDOM", ||UK|| ITV 4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1329
+
+#EXTINF:-1 tvg-logo="https://riki.team/upload/iblock/e18/e18430eb1ce6c09f76c1ab5d95aa89f7.jpg" group-title="UNITED OF KINGDOM", ||UK|| ITV BE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1330
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/38fc5dfe947b7cbae9417ba6f137f50c.png" group-title="UNITED OF KINGDOM", ||UK|| CHANNEL 4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1332
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/1200px-Channel_5_%28UK%29_2016.svg.png" group-title="UNITED OF KINGDOM", ||UK|| CHANNEL 5 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1333
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC ONE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1334
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC TWO HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC CBEEBIES HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1336
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC FOUR HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1337
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| EURONEWS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1340
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FOX NEWS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1341
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/642/722/png-clipart-eden-television-channel-uktv-home-home-television-logo.png" group-title="UNITED OF KINGDOM", ||UK|| EDEN HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1343
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SONY TV HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| 5 STAR HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1345
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| 5 USA HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1346
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/d31fc308239193f3419a9a6e83126b5a.png" group-title="UNITED OF KINGDOM", ||UK|| DAVE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| MORE 4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FILM 4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1349
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| E4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| E! HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| ALIBI HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FOX HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1355
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/16a0f77ded16721bc1f6527ecb0ad2a4.png" group-title="UNITED OF KINGDOM", ||UK|| GOLD HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| REALLY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1357
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/60/858/png-clipart-cbs-drama-cbs-reality-television-channel-cbs-action-others-miscellaneous-television.png" group-title="UNITED OF KINGDOM", ||UK|| CBS DRAMA HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1358
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/808c7353ea6e084a10469a8e2b392c4b.jpg" group-title="UNITED OF KINGDOM", ||UK|| CBS REALITY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| PARAMOUNT NETWORK HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1360
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/93bec195269a415809bd5f3b0f21eca1.png" group-title="UNITED OF KINGDOM", ||UK|| CBS JUSTICE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1361
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png" group-title="UNITED OF KINGDOM", ||UK|| SYFY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| TCM MOVIES HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| QUEST HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| YESTERDAY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1367
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| DRAMA HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CHALLENGE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1369
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| 4SEVEN HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FOOD NETWORK HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1374
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CRIME AND INVESTIGATION HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1376
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/8c572c96e2ea57d0dd14e329f1005060.png" group-title="UNITED OF KINGDOM", ||UK|| NAT GEO WILD HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1379
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/171f41ff0e6816c31663711831f1837b.jpg" group-title="UNITED OF KINGDOM", ||UK|| DISCOVERY SCIENCE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1381
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/923bc4b9f5b1cc6728068cec76115563.jpg" group-title="UNITED OF KINGDOM", ||UK|| DISCOVERY HISTORY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1382
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/41777dfdf261a7dc4e2a74188e7aa36c.png" group-title="UNITED OF KINGDOM", ||UK|| DISCOVERY SHED HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC ENTERTAINMENT HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| H2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1385
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BABY TV HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1388
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="UNITED OF KINGDOM", ||UK|| DISNEY CHANNEL HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1389
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| DISNEY JUNIOR HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1390
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| NICKELODEON HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1392
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| RTE TWO HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY NEWS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1396
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY 1 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1397
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1398
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY ATLANTIC HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1399
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY LIVING HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1400
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY ARTS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1402
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY MOVIES PREMIER HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1403
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png" group-title="UNITED OF KINGDOM", ||UK|| SKY MOVIES COMEDY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1406
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY MOVIES SCI-FI & HORROR HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1407
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY MOVIES DISNEY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1409
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS NEWS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1411
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS PREMIER LEAGUE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS CRICKET HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS F1 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1418
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS MIX HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1421
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FREE SPORTS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1422
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e840a5a3cc3a284ffe00fa1e20827ecb.png" group-title="UNITED OF KINGDOM", ||UK|| EUROSPORT 1 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1423
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/fa703cc2587be42659e351e74bf29467.png" group-title="UNITED OF KINGDOM", ||UK|| EUROSPORT 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT 1 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1428
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT 3 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1429
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT ESPN HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1431
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| STAR SPOR SELECT 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| LFC TV HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1441
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| MUTV HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1442
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY SPORTS RACING HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY STORE 4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY STORE PRE-ORDER 1 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY CRIME HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY HISTORY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| FRANCE 24 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| TLC  HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1695
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA CRIME & THRILLER HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1697
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e046bfec5361913269b608e1f16f9585.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA GREATS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1698
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/ee042dc7444d776bab849e819be8d05e.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA SELECT HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1699
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CARTOONITO HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1700
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BOOMERANG HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1701
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/97a89af235fc84e1233c7bf262a027c1.png" group-title="UNITED OF KINGDOM", ||UK|| MTV MUSIC HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1702
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/61617672b07acf6249cb67d54e34d0d1.png" group-title="UNITED OF KINGDOM", ||UK|| MTV HITS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1703
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CBS ACTION HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1704
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| HBO COMEDY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1705
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BOX OFFICE 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1708
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BOX OFFICE 3 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1709
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BOX OFFICE 4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1710
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BOX OFFICE 5 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BOX OFFICE 7 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1716
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| PREMIER SPORTS 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/1721
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC PARLIAMANT HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2671
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BBC SCOTLAND HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2672
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CBBC HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2673
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| AT THE RACES HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2899
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| BT SPORT 2 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2901
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/732aabe9748eb1556c5cf173fb84c24b.png" group-title="UNITED OF KINGDOM", ||UK|| MTV CLASSIC HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2939
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/1ab2d4eeed73bc3c155c8b2079c3a530.png" group-title="UNITED OF KINGDOM", ||UK|| MTV HITS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2940
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/dd740616da9ce04c0bfcd210838604cc.png" group-title="UNITED OF KINGDOM", ||UK|| MTV ROCKS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2941
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/97a89af235fc84e1233c7bf262a027c1.png" group-title="UNITED OF KINGDOM", ||UK|| MTV MUSIC HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2942
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/db3f37f1c4e81a1c2128aa9ab8948a0f.png" group-title="UNITED OF KINGDOM", ||UK|| MTV LIVE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2943
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7b70eb9429152fa5fafd027605278a53.png" group-title="UNITED OF KINGDOM", ||UK|| MTV BASE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2944
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/9db7c6eb55f66e8716878ca0e3861678.png" group-title="UNITED OF KINGDOM", ||UK|| MTV DANCE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2945
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/f2e1f7a80679daeb30180f0ebe46e6d0.png" group-title="UNITED OF KINGDOM", ||UK|| MTV CLUB HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2946
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CARTOON NETWORK HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2949
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/80cd5383aa18184efaada6d48bb319f3.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA PREMIERE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2960
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b7b307db4f86e034c66a78d672ce2154.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA FAMILY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2962
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/faa1a62fb037d5cedd724a83bf8153cc.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA DRAMA & ROMANCE  HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2964
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/820b6c5a90ca645f67cd6e80331fc1fb.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA COMEDY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2966
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/303d2f5ac16599e37283f214a4ab86d2.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA ACTION & ADVENTURE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2968
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/d8a4d32481d2d3d112f222393eb7a51a.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA SCI-FI HORROR HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2972
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e0b207526f7e96f60a5d9358d2b1b382.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA THRILLER HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2974
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/35309226eb45ec366ca86a4329a2b7c3.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA DISNEY HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2975
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| DRAMA CHANNEL HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2977
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c018a846d1e22d516e4f627cb6aeffeb.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA HITS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2978
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| MOVIES4MEN HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| AMC HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| UNIVERSAL CHANNEL HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2983
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/5daae38532c46bb29b2f71930b4f2d82.png" group-title="UNITED OF KINGDOM", ||UK|| COMEDY CENTRAL HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2985
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/ef79089f3c8a74a54247c82498ceedf7.png" group-title="UNITED OF KINGDOM", ||UK|| ITV +1 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SKY WITNESS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2998
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| TG4 HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3008
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| VIRGIN ONE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3009
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| S4C HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3014
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/874/396/png-transparent-united-kingdom-blaze-a-e-networks-television-channel-blazer-television-text-logo.png" group-title="UNITED OF KINGDOM", ||UK|| BLAZE HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3020
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b87227c9a657ebc219cb6089abad2f98.png" group-title="UNITED OF KINGDOM", ||UK|| TRAVEL CHANNEL HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3022
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e046bfec5361913269b608e1f16f9585.png" group-title="UNITED OF KINGDOM", ||UK|| SKY CINEMA GREATS HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/4840
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| ZEE CINEMA HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/6669
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CHELSEA TV
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2904
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b3769f4fdfbb2ccdd55b35ed92db1905.png" group-title="UNITED OF KINGDOM", ||UK|| EIR SPORT 1 FHD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2906
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| SONY SIX SPORT
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2911
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| CNBC EUROPE NEWS
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2936
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| AL JAZEERA NEWS ENGLISH
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2931
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| 4 MUSIC
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2948
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| TINY POP
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2958
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| ITV 4 + 1
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2995
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| 5 SELECT
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| 5SPIKE
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/2999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| VIRGIN TWO
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3007
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| VIRGIN THREE
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3010
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| GOOD FOOD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3011
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| KISS TV
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3015
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/cc8f333e810a0b724f1887dfc7e2f58e.png" group-title="UNITED OF KINGDOM", ||UK|| DISCOVERY TURBO
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/3024
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| POP MAX
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/4843
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| HORROR CHANNEL
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/4844
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UNITED OF KINGDOM", ||UK|| GOLD TV
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/4846
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/958ee5a1a296f16f4bdf833a425dc8f2.png" group-title="UNITED OF KINGDOM", ||UK|| DISCOVERY INVESTIGATION HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/4847
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.png" group-title="UNITED OF KINGDOM", ||UK|| MTV 90S HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/52286
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-extra-uk-us-uk.png" group-title="UNITED OF KINGDOM", ||UK|| COMEDY CENTRAL EXTRA HD
+http://obshd.tv:25461/stevegombo/jpXtTT88qk/52287
+
